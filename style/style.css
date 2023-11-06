@@ -1,0 +1,26 @@
+.box {
+    text-align: center;
+    padding-top: 240px;
+}
+
+.btn1 {
+    border-radius: 10px;
+    color: dark;
+    padding: 15px 35px;
+    background-color: cadetblue
+}
+
+.btna {
+    background-color: orange;
+    margin-right: 210px;
+    padding: 3px 16px;
+}
+
+.btnb {
+    background-color: orange;
+    padding: 3px 16px;
+}
+
+.btns {
+   background-color: darkgray;
+}
